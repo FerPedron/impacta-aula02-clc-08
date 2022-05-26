@@ -1,2 +1,3 @@
-# impacta-aula02-clc-08
-Reposit[orio da prática de conceitos básicos de versionamento de código (Git e GitHub)
+# Impacta Aula 02 CLC-08
+
+Repositório da prática de conceitos básicos de versionamento de código (Git e GitHub)
